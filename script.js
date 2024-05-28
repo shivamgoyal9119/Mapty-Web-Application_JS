@@ -323,7 +323,7 @@ class App {
 
     this.#workouts.forEach((work) => {
       this._renderWorkout(work);
-      // this._renderWorkoutMarker(work);  // It wiil call in the _loadMap function because firs requirement to loads the map and then we add the marker on it.
+      // this._renderWorkoutMarker(work);  // It wiil call in the _loadMap function because first requirement to loads the map and then we add the marker on it.
     });
   }
 
