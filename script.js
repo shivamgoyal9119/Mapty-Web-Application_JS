@@ -340,30 +340,5 @@ const app = new App();
 
 // Displaying a Map using Leaflet Library
 
-// Displaying a Map Marker
-
-// Rendering Workout Input Form
-
-// Refactoring for Project Architecture
-
-// Managing Workout Data: Creating Classes
-
-// Creating a New Workout
-
-// Rendering Workouts
-
-// Move to Marker On Click
-
-// Working with localStorage
-
-// Final Considerations      //////// Jonas tells more advance ideas(features) to add this application at own.
-
 // The End :D
-
-
-
-
-
-
-
 
